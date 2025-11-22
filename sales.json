@@ -1,0 +1,3884 @@
+{
+  "sales": [
+    {
+      "id": "sale_001",
+      "company_id": "comp_001",
+      "customer_id": "cust_033",
+      "invoice_number": "INV-2025-0001",
+      "total": 159157,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.827358+00:00",
+      "items": [
+        {
+          "id": "si_001_1",
+          "sale_id": "sale_001",
+          "variant_id": "var_145_2",
+          "qty": 1,
+          "unit_price": 5929,
+          "discount": 0
+        },
+        {
+          "id": "si_001_2",
+          "sale_id": "sale_001",
+          "variant_id": "var_014_2",
+          "qty": 3,
+          "unit_price": 51076,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_001_1",
+          "sale_id": "sale_001",
+          "method": "UPI",
+          "amount": 159157,
+          "ref_number": "TX-000001",
+          "paid_at": "2025-11-21T18:13:50.827358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_002",
+      "company_id": "comp_001",
+      "customer_id": "cust_035",
+      "invoice_number": "INV-2025-0002",
+      "total": 49348,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.827358+00:00",
+      "items": [
+        {
+          "id": "si_002_1",
+          "sale_id": "sale_002",
+          "variant_id": "var_057_1",
+          "qty": 2,
+          "unit_price": 173,
+          "discount": 0
+        },
+        {
+          "id": "si_002_2",
+          "sale_id": "sale_002",
+          "variant_id": "var_109_1",
+          "qty": 1,
+          "unit_price": 48755,
+          "discount": 0
+        },
+        {
+          "id": "si_002_3",
+          "sale_id": "sale_002",
+          "variant_id": "var_027_1",
+          "qty": 1,
+          "unit_price": 247,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_002_1",
+          "sale_id": "sale_002",
+          "method": "CARD",
+          "amount": 49348,
+          "ref_number": "TX-000002",
+          "paid_at": "2025-11-21T18:13:50.827358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_003",
+      "company_id": "comp_001",
+      "customer_id": "cust_027",
+      "invoice_number": "INV-2025-0003",
+      "total": 148467,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.827358+00:00",
+      "items": [
+        {
+          "id": "si_003_1",
+          "sale_id": "sale_003",
+          "variant_id": "var_082_1",
+          "qty": 3,
+          "unit_price": 251,
+          "discount": 0
+        },
+        {
+          "id": "si_003_2",
+          "sale_id": "sale_003",
+          "variant_id": "var_113_3",
+          "qty": 3,
+          "unit_price": 49238,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_003_1",
+          "sale_id": "sale_003",
+          "method": "UPI",
+          "amount": 148467,
+          "ref_number": "TX-000003",
+          "paid_at": "2025-11-21T18:13:50.827358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_004",
+      "company_id": "comp_001",
+      "customer_id": "cust_028",
+      "invoice_number": "INV-2025-0004",
+      "total": 287511,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.827358+00:00",
+      "items": [
+        {
+          "id": "si_004_1",
+          "sale_id": "sale_004",
+          "variant_id": "var_133_1",
+          "qty": 3,
+          "unit_price": 41272,
+          "discount": 0
+        },
+        {
+          "id": "si_004_2",
+          "sale_id": "sale_004",
+          "variant_id": "var_109_1",
+          "qty": 3,
+          "unit_price": 48755,
+          "discount": 0
+        },
+        {
+          "id": "si_004_3",
+          "sale_id": "sale_004",
+          "variant_id": "var_132_1",
+          "qty": 3,
+          "unit_price": 5810,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_004_1",
+          "sale_id": "sale_004",
+          "method": "UPI",
+          "amount": 287511,
+          "ref_number": "TX-000004",
+          "paid_at": "2025-11-21T18:13:50.827358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_005",
+      "company_id": "comp_001",
+      "customer_id": "cust_050",
+      "invoice_number": "INV-2025-0005",
+      "total": 5163,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_005_1",
+          "sale_id": "sale_005",
+          "variant_id": "var_076_1",
+          "qty": 1,
+          "unit_price": 2089,
+          "discount": 0
+        },
+        {
+          "id": "si_005_2",
+          "sale_id": "sale_005",
+          "variant_id": "var_072_2",
+          "qty": 1,
+          "unit_price": 3074,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_005_1",
+          "sale_id": "sale_005",
+          "method": "CASH",
+          "amount": 5163,
+          "ref_number": "TX-000005",
+          "paid_at": "2025-11-21T18:13:50.827358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_006",
+      "company_id": "comp_001",
+      "customer_id": "cust_042",
+      "invoice_number": "INV-2025-0006",
+      "total": 9074,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_006_1",
+          "sale_id": "sale_006",
+          "variant_id": "var_050_2",
+          "qty": 2,
+          "unit_price": 4537,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_006_1",
+          "sale_id": "sale_006",
+          "method": "CASH",
+          "amount": 9074,
+          "ref_number": "TX-000006",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_007",
+      "company_id": "comp_001",
+      "customer_id": "cust_014",
+      "invoice_number": "INV-2025-0007",
+      "total": 36054,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_007_1",
+          "sale_id": "sale_007",
+          "variant_id": "var_114_1",
+          "qty": 3,
+          "unit_price": 8234,
+          "discount": 0
+        },
+        {
+          "id": "si_007_2",
+          "sale_id": "sale_007",
+          "variant_id": "var_142_1",
+          "qty": 1,
+          "unit_price": 11352,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_007_1",
+          "sale_id": "sale_007",
+          "method": "CARD",
+          "amount": 36054,
+          "ref_number": "TX-000007",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_008",
+      "company_id": "comp_001",
+      "customer_id": "cust_046",
+      "invoice_number": "INV-2025-0008",
+      "total": 62071,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_008_1",
+          "sale_id": "sale_008",
+          "variant_id": "var_128_2",
+          "qty": 2,
+          "unit_price": 1545,
+          "discount": 0
+        },
+        {
+          "id": "si_008_2",
+          "sale_id": "sale_008",
+          "variant_id": "var_070_2",
+          "qty": 1,
+          "unit_price": 58981,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_008_1",
+          "sale_id": "sale_008",
+          "method": "CASH",
+          "amount": 62071,
+          "ref_number": "TX-000008",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_009",
+      "company_id": "comp_001",
+      "customer_id": "cust_041",
+      "invoice_number": "INV-2025-0009",
+      "total": 718,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_009_1",
+          "sale_id": "sale_009",
+          "variant_id": "var_091_2",
+          "qty": 2,
+          "unit_price": 359,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_009_1",
+          "sale_id": "sale_009",
+          "method": "CASH",
+          "amount": 718,
+          "ref_number": "TX-000009",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_010",
+      "company_id": "comp_001",
+      "customer_id": "cust_010",
+      "invoice_number": "INV-2025-0010",
+      "total": 102706,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_010_1",
+          "sale_id": "sale_010",
+          "variant_id": "var_147_1",
+          "qty": 2,
+          "unit_price": 277,
+          "discount": 0
+        },
+        {
+          "id": "si_010_2",
+          "sale_id": "sale_010",
+          "variant_id": "var_014_2",
+          "qty": 2,
+          "unit_price": 51076,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_010_1",
+          "sale_id": "sale_010",
+          "method": "CASH",
+          "amount": 102706,
+          "ref_number": "TX-000010",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_011",
+      "company_id": "comp_001",
+      "customer_id": "cust_005",
+      "invoice_number": "INV-2025-0011",
+      "total": 53823,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_011_1",
+          "sale_id": "sale_011",
+          "variant_id": "var_124_1",
+          "qty": 1,
+          "unit_price": 3077,
+          "discount": 0
+        },
+        {
+          "id": "si_011_2",
+          "sale_id": "sale_011",
+          "variant_id": "var_067_1",
+          "qty": 1,
+          "unit_price": 50746,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_011_1",
+          "sale_id": "sale_011",
+          "method": "CARD",
+          "amount": 53823,
+          "ref_number": "TX-000011",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_012",
+      "company_id": "comp_001",
+      "customer_id": "cust_007",
+      "invoice_number": "INV-2025-0012",
+      "total": 166370,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_012_1",
+          "sale_id": "sale_012",
+          "variant_id": "var_094_3",
+          "qty": 1,
+          "unit_price": 55262,
+          "discount": 0
+        },
+        {
+          "id": "si_012_2",
+          "sale_id": "sale_012",
+          "variant_id": "var_079_1",
+          "qty": 3,
+          "unit_price": 37036,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_012_1",
+          "sale_id": "sale_012",
+          "method": "CASH",
+          "amount": 166370,
+          "ref_number": "TX-000012",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_013",
+      "company_id": "comp_001",
+      "customer_id": "cust_013",
+      "invoice_number": "INV-2025-0013",
+      "total": 241744,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_013_1",
+          "sale_id": "sale_013",
+          "variant_id": "var_144_2",
+          "qty": 2,
+          "unit_price": 38877,
+          "discount": 0
+        },
+        {
+          "id": "si_013_2",
+          "sale_id": "sale_013",
+          "variant_id": "var_019_2",
+          "qty": 3,
+          "unit_price": 54605,
+          "discount": 0
+        },
+        {
+          "id": "si_013_3",
+          "sale_id": "sale_013",
+          "variant_id": "var_037_1",
+          "qty": 1,
+          "unit_price": 175,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_013_1",
+          "sale_id": "sale_013",
+          "method": "UPI",
+          "amount": 241744,
+          "ref_number": "TX-000013",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_014",
+      "company_id": "comp_001",
+      "customer_id": "cust_050",
+      "invoice_number": "INV-2025-0014",
+      "total": 13913,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_014_1",
+          "sale_id": "sale_014",
+          "variant_id": "var_047_1",
+          "qty": 1,
+          "unit_price": 4314,
+          "discount": 0
+        },
+        {
+          "id": "si_014_2",
+          "sale_id": "sale_014",
+          "variant_id": "var_124_1",
+          "qty": 3,
+          "unit_price": 3077,
+          "discount": 0
+        },
+        {
+          "id": "si_014_3",
+          "sale_id": "sale_014",
+          "variant_id": "var_041_2",
+          "qty": 2,
+          "unit_price": 184,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_014_1",
+          "sale_id": "sale_014",
+          "method": "CARD",
+          "amount": 13913,
+          "ref_number": "TX-000014",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_015",
+      "company_id": "comp_001",
+      "customer_id": "cust_007",
+      "invoice_number": "INV-2025-0015",
+      "total": 8760,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_015_1",
+          "sale_id": "sale_015",
+          "variant_id": "var_101_2",
+          "qty": 3,
+          "unit_price": 2920,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_015_1",
+          "sale_id": "sale_015",
+          "method": "CASH",
+          "amount": 8760,
+          "ref_number": "TX-000015",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_016",
+      "company_id": "comp_001",
+      "customer_id": "cust_033",
+      "invoice_number": "INV-2025-0016",
+      "total": 237138,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_016_1",
+          "sale_id": "sale_016",
+          "variant_id": "var_025_2",
+          "qty": 3,
+          "unit_price": 34966,
+          "discount": 0
+        },
+        {
+          "id": "si_016_2",
+          "sale_id": "sale_016",
+          "variant_id": "var_012_1",
+          "qty": 3,
+          "unit_price": 388,
+          "discount": 0
+        },
+        {
+          "id": "si_016_3",
+          "sale_id": "sale_016",
+          "variant_id": "var_094_1",
+          "qty": 2,
+          "unit_price": 65538,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_016_1",
+          "sale_id": "sale_016",
+          "method": "UPI",
+          "amount": 237138,
+          "ref_number": "TX-000016",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_017",
+      "company_id": "comp_001",
+      "customer_id": "cust_022",
+      "invoice_number": "INV-2025-0017",
+      "total": 18497,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_017_1",
+          "sale_id": "sale_017",
+          "variant_id": "var_045_1",
+          "qty": 2,
+          "unit_price": 7195,
+          "discount": 0
+        },
+        {
+          "id": "si_017_2",
+          "sale_id": "sale_017",
+          "variant_id": "var_064_1",
+          "qty": 1,
+          "unit_price": 4107,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_017_1",
+          "sale_id": "sale_017",
+          "method": "CASH",
+          "amount": 18497,
+          "ref_number": "TX-000017",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_018",
+      "company_id": "comp_001",
+      "customer_id": "cust_050",
+      "invoice_number": "INV-2025-0018",
+      "total": 144585,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_018_1",
+          "sale_id": "sale_018",
+          "variant_id": "var_141_1",
+          "qty": 3,
+          "unit_price": 48195,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_018_1",
+          "sale_id": "sale_018",
+          "method": "CASH",
+          "amount": 144585,
+          "ref_number": "TX-000018",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_019",
+      "company_id": "comp_001",
+      "customer_id": "cust_030",
+      "invoice_number": "INV-2025-0019",
+      "total": 211580,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_019_1",
+          "sale_id": "sale_019",
+          "variant_id": "var_086_1",
+          "qty": 2,
+          "unit_price": 29662,
+          "discount": 0
+        },
+        {
+          "id": "si_019_2",
+          "sale_id": "sale_019",
+          "variant_id": "var_150_2",
+          "qty": 2,
+          "unit_price": 11403,
+          "discount": 0
+        },
+        {
+          "id": "si_019_3",
+          "sale_id": "sale_019",
+          "variant_id": "var_026_1",
+          "qty": 2,
+          "unit_price": 64725,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_019_1",
+          "sale_id": "sale_019",
+          "method": "UPI",
+          "amount": 211580,
+          "ref_number": "TX-000019",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_020",
+      "company_id": "comp_001",
+      "customer_id": "cust_011",
+      "invoice_number": "INV-2025-0020",
+      "total": 229767,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_020_1",
+          "sale_id": "sale_020",
+          "variant_id": "var_120_1",
+          "qty": 2,
+          "unit_price": 5910,
+          "discount": 0
+        },
+        {
+          "id": "si_020_2",
+          "sale_id": "sale_020",
+          "variant_id": "var_123_1",
+          "qty": 3,
+          "unit_price": 72649,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_020_1",
+          "sale_id": "sale_020",
+          "method": "CARD",
+          "amount": 229767,
+          "ref_number": "TX-000020",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_021",
+      "company_id": "comp_001",
+      "customer_id": "cust_002",
+      "invoice_number": "INV-2025-0021",
+      "total": 155,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_021_1",
+          "sale_id": "sale_021",
+          "variant_id": "var_010_2",
+          "qty": 1,
+          "unit_price": 155,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_021_1",
+          "sale_id": "sale_021",
+          "method": "UPI",
+          "amount": 155,
+          "ref_number": "TX-000021",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_022",
+      "company_id": "comp_001",
+      "customer_id": "cust_015",
+      "invoice_number": "INV-2025-0022",
+      "total": 283000,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_022_1",
+          "sale_id": "sale_022",
+          "variant_id": "var_079_1",
+          "qty": 3,
+          "unit_price": 37036,
+          "discount": 0
+        },
+        {
+          "id": "si_022_2",
+          "sale_id": "sale_022",
+          "variant_id": "var_094_3",
+          "qty": 2,
+          "unit_price": 55262,
+          "discount": 0
+        },
+        {
+          "id": "si_022_3",
+          "sale_id": "sale_022",
+          "variant_id": "var_090_1",
+          "qty": 1,
+          "unit_price": 61368,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_022_1",
+          "sale_id": "sale_022",
+          "method": "UPI",
+          "amount": 283000,
+          "ref_number": "TX-000022",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_023",
+      "company_id": "comp_001",
+      "customer_id": "cust_029",
+      "invoice_number": "INV-2025-0023",
+      "total": 12484,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_023_1",
+          "sale_id": "sale_023",
+          "variant_id": "var_100_1",
+          "qty": 2,
+          "unit_price": 432,
+          "discount": 0
+        },
+        {
+          "id": "si_023_2",
+          "sale_id": "sale_023",
+          "variant_id": "var_132_1",
+          "qty": 2,
+          "unit_price": 5810,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_023_1",
+          "sale_id": "sale_023",
+          "method": "CASH",
+          "amount": 12484,
+          "ref_number": "TX-000023",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_024",
+      "company_id": "comp_001",
+      "customer_id": "cust_042",
+      "invoice_number": "INV-2025-0024",
+      "total": 170689,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_024_1",
+          "sale_id": "sale_024",
+          "variant_id": "var_039_3",
+          "qty": 2,
+          "unit_price": 69695,
+          "discount": 0
+        },
+        {
+          "id": "si_024_2",
+          "sale_id": "sale_024",
+          "variant_id": "var_135_1",
+          "qty": 3,
+          "unit_price": 10013,
+          "discount": 0
+        },
+        {
+          "id": "si_024_3",
+          "sale_id": "sale_024",
+          "variant_id": "var_042_1",
+          "qty": 3,
+          "unit_price": 420,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_024_1",
+          "sale_id": "sale_024",
+          "method": "UPI",
+          "amount": 170689,
+          "ref_number": "TX-000024",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_025",
+      "company_id": "comp_001",
+      "customer_id": "cust_005",
+      "invoice_number": "INV-2025-0025",
+      "total": 8829,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_025_1",
+          "sale_id": "sale_025",
+          "variant_id": "var_003_1",
+          "qty": 3,
+          "unit_price": 2943,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_025_1",
+          "sale_id": "sale_025",
+          "method": "CARD",
+          "amount": 8829,
+          "ref_number": "TX-000025",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_026",
+      "company_id": "comp_001",
+      "customer_id": "cust_033",
+      "invoice_number": "INV-2025-0026",
+      "total": 19605,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_026_1",
+          "sale_id": "sale_026",
+          "variant_id": "var_136_1",
+          "qty": 3,
+          "unit_price": 6535,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_026_1",
+          "sale_id": "sale_026",
+          "method": "CARD",
+          "amount": 19605,
+          "ref_number": "TX-000026",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_027",
+      "company_id": "comp_001",
+      "customer_id": "cust_016",
+      "invoice_number": "INV-2025-0027",
+      "total": 11054,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_027_1",
+          "sale_id": "sale_027",
+          "variant_id": "var_075_1",
+          "qty": 1,
+          "unit_price": 11054,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_027_1",
+          "sale_id": "sale_027",
+          "method": "CARD",
+          "amount": 11054,
+          "ref_number": "TX-000027",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_028",
+      "company_id": "comp_001",
+      "customer_id": "cust_013",
+      "invoice_number": "INV-2025-0028",
+      "total": 112152,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_028_1",
+          "sale_id": "sale_028",
+          "variant_id": "var_018_1",
+          "qty": 3,
+          "unit_price": 25139,
+          "discount": 0
+        },
+        {
+          "id": "si_028_2",
+          "sale_id": "sale_028",
+          "variant_id": "var_038_3",
+          "qty": 3,
+          "unit_price": 5955,
+          "discount": 0
+        },
+        {
+          "id": "si_028_3",
+          "sale_id": "sale_028",
+          "variant_id": "var_059_2",
+          "qty": 3,
+          "unit_price": 6290,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_028_1",
+          "sale_id": "sale_028",
+          "method": "UPI",
+          "amount": 112152,
+          "ref_number": "TX-000028",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_029",
+      "company_id": "comp_001",
+      "customer_id": "cust_040",
+      "invoice_number": "INV-2025-0029",
+      "total": 2393,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_029_1",
+          "sale_id": "sale_029",
+          "variant_id": "var_127_1",
+          "qty": 1,
+          "unit_price": 2393,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_029_1",
+          "sale_id": "sale_029",
+          "method": "CASH",
+          "amount": 2393,
+          "ref_number": "TX-000029",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_030",
+      "company_id": "comp_001",
+      "customer_id": "cust_004",
+      "invoice_number": "INV-2025-0030",
+      "total": 620,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_030_1",
+          "sale_id": "sale_030",
+          "variant_id": "var_085_1",
+          "qty": 2,
+          "unit_price": 310,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_030_1",
+          "sale_id": "sale_030",
+          "method": "CASH",
+          "amount": 620,
+          "ref_number": "TX-000030",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_031",
+      "company_id": "comp_001",
+      "customer_id": "cust_021",
+      "invoice_number": "INV-2025-0031",
+      "total": 114046,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_031_1",
+          "sale_id": "sale_031",
+          "variant_id": "var_026_2",
+          "qty": 2,
+          "unit_price": 48840,
+          "discount": 0
+        },
+        {
+          "id": "si_031_2",
+          "sale_id": "sale_031",
+          "variant_id": "var_034_1",
+          "qty": 2,
+          "unit_price": 5435,
+          "discount": 0
+        },
+        {
+          "id": "si_031_3",
+          "sale_id": "sale_031",
+          "variant_id": "var_077_1",
+          "qty": 3,
+          "unit_price": 1832,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_031_1",
+          "sale_id": "sale_031",
+          "method": "UPI",
+          "amount": 114046,
+          "ref_number": "TX-000031",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_032",
+      "company_id": "comp_001",
+      "customer_id": "cust_013",
+      "invoice_number": "INV-2025-0032",
+      "total": 149253,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_032_1",
+          "sale_id": "sale_032",
+          "variant_id": "var_067_2",
+          "qty": 3,
+          "unit_price": 43841,
+          "discount": 0
+        },
+        {
+          "id": "si_032_2",
+          "sale_id": "sale_032",
+          "variant_id": "var_120_1",
+          "qty": 3,
+          "unit_price": 5910,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_032_1",
+          "sale_id": "sale_032",
+          "method": "CASH",
+          "amount": 149253,
+          "ref_number": "TX-000032",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_033",
+      "company_id": "comp_001",
+      "customer_id": "cust_041",
+      "invoice_number": "INV-2025-0033",
+      "total": 27787,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_033_1",
+          "sale_id": "sale_033",
+          "variant_id": "var_039_1",
+          "qty": 1,
+          "unit_price": 25955,
+          "discount": 0
+        },
+        {
+          "id": "si_033_2",
+          "sale_id": "sale_033",
+          "variant_id": "var_077_1",
+          "qty": 1,
+          "unit_price": 1832,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_033_1",
+          "sale_id": "sale_033",
+          "method": "CASH",
+          "amount": 27787,
+          "ref_number": "TX-000033",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_034",
+      "company_id": "comp_001",
+      "customer_id": "cust_030",
+      "invoice_number": "INV-2025-0034",
+      "total": 54498,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_034_1",
+          "sale_id": "sale_034",
+          "variant_id": "var_013_1",
+          "qty": 1,
+          "unit_price": 1975,
+          "discount": 0
+        },
+        {
+          "id": "si_034_2",
+          "sale_id": "sale_034",
+          "variant_id": "var_033_3",
+          "qty": 1,
+          "unit_price": 51725,
+          "discount": 0
+        },
+        {
+          "id": "si_034_3",
+          "sale_id": "sale_034",
+          "variant_id": "var_035_2",
+          "qty": 3,
+          "unit_price": 266,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_034_1",
+          "sale_id": "sale_034",
+          "method": "UPI",
+          "amount": 54498,
+          "ref_number": "TX-000034",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_035",
+      "company_id": "comp_001",
+      "customer_id": "cust_024",
+      "invoice_number": "INV-2025-0035",
+      "total": 28660,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.828360+00:00",
+      "items": [
+        {
+          "id": "si_035_1",
+          "sale_id": "sale_035",
+          "variant_id": "var_063_2",
+          "qty": 1,
+          "unit_price": 25208,
+          "discount": 0
+        },
+        {
+          "id": "si_035_2",
+          "sale_id": "sale_035",
+          "variant_id": "var_101_3",
+          "qty": 2,
+          "unit_price": 1460,
+          "discount": 0
+        },
+        {
+          "id": "si_035_3",
+          "sale_id": "sale_035",
+          "variant_id": "var_035_2",
+          "qty": 2,
+          "unit_price": 266,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_035_1",
+          "sale_id": "sale_035",
+          "method": "CARD",
+          "amount": 28660,
+          "ref_number": "TX-000035",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_036",
+      "company_id": "comp_001",
+      "customer_id": "cust_039",
+      "invoice_number": "INV-2025-0036",
+      "total": 4863,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_036_1",
+          "sale_id": "sale_036",
+          "variant_id": "var_134_1",
+          "qty": 3,
+          "unit_price": 1451,
+          "discount": 0
+        },
+        {
+          "id": "si_036_2",
+          "sale_id": "sale_036",
+          "variant_id": "var_024_1",
+          "qty": 2,
+          "unit_price": 255,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_036_1",
+          "sale_id": "sale_036",
+          "method": "CARD",
+          "amount": 4863,
+          "ref_number": "TX-000036",
+          "paid_at": "2025-11-21T18:13:50.828360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_037",
+      "company_id": "comp_001",
+      "customer_id": "cust_009",
+      "invoice_number": "INV-2025-0037",
+      "total": 86937,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_037_1",
+          "sale_id": "sale_037",
+          "variant_id": "var_070_1",
+          "qty": 2,
+          "unit_price": 41870,
+          "discount": 0
+        },
+        {
+          "id": "si_037_2",
+          "sale_id": "sale_037",
+          "variant_id": "var_037_1",
+          "qty": 1,
+          "unit_price": 175,
+          "discount": 0
+        },
+        {
+          "id": "si_037_3",
+          "sale_id": "sale_037",
+          "variant_id": "var_087_2",
+          "qty": 2,
+          "unit_price": 1511,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_037_1",
+          "sale_id": "sale_037",
+          "method": "CASH",
+          "amount": 86937,
+          "ref_number": "TX-000037",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_038",
+      "company_id": "comp_001",
+      "customer_id": "cust_050",
+      "invoice_number": "INV-2025-0038",
+      "total": 74701,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_038_1",
+          "sale_id": "sale_038",
+          "variant_id": "var_026_1",
+          "qty": 1,
+          "unit_price": 64725,
+          "discount": 0
+        },
+        {
+          "id": "si_038_2",
+          "sale_id": "sale_038",
+          "variant_id": "var_111_1",
+          "qty": 2,
+          "unit_price": 4988,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_038_1",
+          "sale_id": "sale_038",
+          "method": "CARD",
+          "amount": 74701,
+          "ref_number": "TX-000038",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_039",
+      "company_id": "comp_001",
+      "customer_id": "cust_046",
+      "invoice_number": "INV-2025-0039",
+      "total": 87348,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_039_1",
+          "sale_id": "sale_039",
+          "variant_id": "var_079_1",
+          "qty": 2,
+          "unit_price": 37036,
+          "discount": 0
+        },
+        {
+          "id": "si_039_2",
+          "sale_id": "sale_039",
+          "variant_id": "var_007_2",
+          "qty": 2,
+          "unit_price": 6638,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_039_1",
+          "sale_id": "sale_039",
+          "method": "UPI",
+          "amount": 87348,
+          "ref_number": "TX-000039",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_040",
+      "company_id": "comp_001",
+      "customer_id": "cust_048",
+      "invoice_number": "INV-2025-0040",
+      "total": 117795,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_040_1",
+          "sale_id": "sale_040",
+          "variant_id": "var_125_2",
+          "qty": 3,
+          "unit_price": 39265,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_040_1",
+          "sale_id": "sale_040",
+          "method": "CARD",
+          "amount": 117795,
+          "ref_number": "TX-000040",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_041",
+      "company_id": "comp_001",
+      "customer_id": "cust_007",
+      "invoice_number": "INV-2025-0041",
+      "total": 81962,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_041_1",
+          "sale_id": "sale_041",
+          "variant_id": "var_125_2",
+          "qty": 2,
+          "unit_price": 39265,
+          "discount": 0
+        },
+        {
+          "id": "si_041_2",
+          "sale_id": "sale_041",
+          "variant_id": "var_027_2",
+          "qty": 2,
+          "unit_price": 256,
+          "discount": 0
+        },
+        {
+          "id": "si_041_3",
+          "sale_id": "sale_041",
+          "variant_id": "var_101_3",
+          "qty": 2,
+          "unit_price": 1460,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_041_1",
+          "sale_id": "sale_041",
+          "method": "UPI",
+          "amount": 81962,
+          "ref_number": "TX-000041",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_042",
+      "company_id": "comp_001",
+      "customer_id": "cust_033",
+      "invoice_number": "INV-2025-0042",
+      "total": 60408,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_042_1",
+          "sale_id": "sale_042",
+          "variant_id": "var_066_2",
+          "qty": 1,
+          "unit_price": 8498,
+          "discount": 0
+        },
+        {
+          "id": "si_042_2",
+          "sale_id": "sale_042",
+          "variant_id": "var_039_1",
+          "qty": 2,
+          "unit_price": 25955,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_042_1",
+          "sale_id": "sale_042",
+          "method": "UPI",
+          "amount": 60408,
+          "ref_number": "TX-000042",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_043",
+      "company_id": "comp_001",
+      "customer_id": "cust_022",
+      "invoice_number": "INV-2025-0043",
+      "total": 117850,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_043_1",
+          "sale_id": "sale_043",
+          "variant_id": "var_009_1",
+          "qty": 2,
+          "unit_price": 55658,
+          "discount": 0
+        },
+        {
+          "id": "si_043_2",
+          "sale_id": "sale_043",
+          "variant_id": "var_082_2",
+          "qty": 3,
+          "unit_price": 203,
+          "discount": 0
+        },
+        {
+          "id": "si_043_3",
+          "sale_id": "sale_043",
+          "variant_id": "var_013_1",
+          "qty": 3,
+          "unit_price": 1975,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_043_1",
+          "sale_id": "sale_043",
+          "method": "CASH",
+          "amount": 117850,
+          "ref_number": "TX-000043",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_044",
+      "company_id": "comp_001",
+      "customer_id": "cust_038",
+      "invoice_number": "INV-2025-0044",
+      "total": 58738,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_044_1",
+          "sale_id": "sale_044",
+          "variant_id": "var_079_1",
+          "qty": 1,
+          "unit_price": 37036,
+          "discount": 0
+        },
+        {
+          "id": "si_044_2",
+          "sale_id": "sale_044",
+          "variant_id": "var_138_1",
+          "qty": 2,
+          "unit_price": 10851,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_044_1",
+          "sale_id": "sale_044",
+          "method": "CARD",
+          "amount": 58738,
+          "ref_number": "TX-000044",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_045",
+      "company_id": "comp_001",
+      "customer_id": "cust_016",
+      "invoice_number": "INV-2025-0045",
+      "total": 40665,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_045_1",
+          "sale_id": "sale_045",
+          "variant_id": "var_029_2",
+          "qty": 1,
+          "unit_price": 217,
+          "discount": 0
+        },
+        {
+          "id": "si_045_2",
+          "sale_id": "sale_045",
+          "variant_id": "var_052_1",
+          "qty": 2,
+          "unit_price": 8353,
+          "discount": 0
+        },
+        {
+          "id": "si_045_3",
+          "sale_id": "sale_045",
+          "variant_id": "var_006_1",
+          "qty": 3,
+          "unit_price": 7914,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_045_1",
+          "sale_id": "sale_045",
+          "method": "UPI",
+          "amount": 40665,
+          "ref_number": "TX-000045",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_046",
+      "company_id": "comp_001",
+      "customer_id": "cust_040",
+      "invoice_number": "INV-2025-0046",
+      "total": 134010,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_046_1",
+          "sale_id": "sale_046",
+          "variant_id": "var_091_2",
+          "qty": 2,
+          "unit_price": 359,
+          "discount": 0
+        },
+        {
+          "id": "si_046_2",
+          "sale_id": "sale_046",
+          "variant_id": "var_081_3",
+          "qty": 2,
+          "unit_price": 57781,
+          "discount": 0
+        },
+        {
+          "id": "si_046_3",
+          "sale_id": "sale_046",
+          "variant_id": "var_120_1",
+          "qty": 3,
+          "unit_price": 5910,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_046_1",
+          "sale_id": "sale_046",
+          "method": "UPI",
+          "amount": 134010,
+          "ref_number": "TX-000046",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_047",
+      "company_id": "comp_001",
+      "customer_id": "cust_002",
+      "invoice_number": "INV-2025-0047",
+      "total": 128689,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_047_1",
+          "sale_id": "sale_047",
+          "variant_id": "var_014_1",
+          "qty": 1,
+          "unit_price": 44825,
+          "discount": 0
+        },
+        {
+          "id": "si_047_2",
+          "sale_id": "sale_047",
+          "variant_id": "var_145_1",
+          "qty": 2,
+          "unit_price": 7762,
+          "discount": 0
+        },
+        {
+          "id": "si_047_3",
+          "sale_id": "sale_047",
+          "variant_id": "var_009_2",
+          "qty": 2,
+          "unit_price": 34170,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_047_1",
+          "sale_id": "sale_047",
+          "method": "CASH",
+          "amount": 128689,
+          "ref_number": "TX-000047",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_048",
+      "company_id": "comp_001",
+      "customer_id": "cust_029",
+      "invoice_number": "INV-2025-0048",
+      "total": 60557,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_048_1",
+          "sale_id": "sale_048",
+          "variant_id": "var_110_1",
+          "qty": 2,
+          "unit_price": 30138,
+          "discount": 0
+        },
+        {
+          "id": "si_048_2",
+          "sale_id": "sale_048",
+          "variant_id": "var_104_2",
+          "qty": 1,
+          "unit_price": 281,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_048_1",
+          "sale_id": "sale_048",
+          "method": "CASH",
+          "amount": 60557,
+          "ref_number": "TX-000048",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_049",
+      "company_id": "comp_001",
+      "customer_id": "cust_042",
+      "invoice_number": "INV-2025-0049",
+      "total": 99736,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_049_1",
+          "sale_id": "sale_049",
+          "variant_id": "var_015_2",
+          "qty": 2,
+          "unit_price": 49868,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_049_1",
+          "sale_id": "sale_049",
+          "method": "CASH",
+          "amount": 99736,
+          "ref_number": "TX-000049",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_050",
+      "company_id": "comp_001",
+      "customer_id": "cust_048",
+      "invoice_number": "INV-2025-0050",
+      "total": 16527,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_050_1",
+          "sale_id": "sale_050",
+          "variant_id": "var_004_2",
+          "qty": 3,
+          "unit_price": 5509,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_050_1",
+          "sale_id": "sale_050",
+          "method": "CASH",
+          "amount": 16527,
+          "ref_number": "TX-000050",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_051",
+      "company_id": "comp_001",
+      "customer_id": "cust_023",
+      "invoice_number": "INV-2025-0051",
+      "total": 5496,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_051_1",
+          "sale_id": "sale_051",
+          "variant_id": "var_077_1",
+          "qty": 3,
+          "unit_price": 1832,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_051_1",
+          "sale_id": "sale_051",
+          "method": "UPI",
+          "amount": 5496,
+          "ref_number": "TX-000051",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_052",
+      "company_id": "comp_001",
+      "customer_id": "cust_031",
+      "invoice_number": "INV-2025-0052",
+      "total": 21311,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.829358+00:00",
+      "items": [
+        {
+          "id": "si_052_1",
+          "sale_id": "sale_052",
+          "variant_id": "var_136_3",
+          "qty": 2,
+          "unit_price": 8301,
+          "discount": 0
+        },
+        {
+          "id": "si_052_2",
+          "sale_id": "sale_052",
+          "variant_id": "var_138_2",
+          "qty": 1,
+          "unit_price": 4709,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_052_1",
+          "sale_id": "sale_052",
+          "method": "CASH",
+          "amount": 21311,
+          "ref_number": "TX-000052",
+          "paid_at": "2025-11-21T18:13:50.829358+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_053",
+      "company_id": "comp_001",
+      "customer_id": "cust_010",
+      "invoice_number": "INV-2025-0053",
+      "total": 28869,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_053_1",
+          "sale_id": "sale_053",
+          "variant_id": "var_030_1",
+          "qty": 3,
+          "unit_price": 9623,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_053_1",
+          "sale_id": "sale_053",
+          "method": "CASH",
+          "amount": 28869,
+          "ref_number": "TX-000053",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_054",
+      "company_id": "comp_001",
+      "customer_id": "cust_007",
+      "invoice_number": "INV-2025-0054",
+      "total": 96119,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_054_1",
+          "sale_id": "sale_054",
+          "variant_id": "var_033_2",
+          "qty": 2,
+          "unit_price": 35380,
+          "discount": 0
+        },
+        {
+          "id": "si_054_2",
+          "sale_id": "sale_054",
+          "variant_id": "var_084_2",
+          "qty": 1,
+          "unit_price": 7410,
+          "discount": 0
+        },
+        {
+          "id": "si_054_3",
+          "sale_id": "sale_054",
+          "variant_id": "var_046_1",
+          "qty": 3,
+          "unit_price": 5983,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_054_1",
+          "sale_id": "sale_054",
+          "method": "CASH",
+          "amount": 96119,
+          "ref_number": "TX-000054",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_055",
+      "company_id": "comp_001",
+      "customer_id": "cust_026",
+      "invoice_number": "INV-2025-0055",
+      "total": 138526,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_055_1",
+          "sale_id": "sale_055",
+          "variant_id": "var_015_2",
+          "qty": 1,
+          "unit_price": 49868,
+          "discount": 0
+        },
+        {
+          "id": "si_055_2",
+          "sale_id": "sale_055",
+          "variant_id": "var_097_2",
+          "qty": 2,
+          "unit_price": 44329,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_055_1",
+          "sale_id": "sale_055",
+          "method": "CARD",
+          "amount": 138526,
+          "ref_number": "TX-000055",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_056",
+      "company_id": "comp_001",
+      "customer_id": "cust_020",
+      "invoice_number": "INV-2025-0056",
+      "total": 25641,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_056_1",
+          "sale_id": "sale_056",
+          "variant_id": "var_028_1",
+          "qty": 1,
+          "unit_price": 25641,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_056_1",
+          "sale_id": "sale_056",
+          "method": "CARD",
+          "amount": 25641,
+          "ref_number": "TX-000056",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_057",
+      "company_id": "comp_001",
+      "customer_id": "cust_006",
+      "invoice_number": "INV-2025-0057",
+      "total": 21585,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_057_1",
+          "sale_id": "sale_057",
+          "variant_id": "var_045_1",
+          "qty": 3,
+          "unit_price": 7195,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_057_1",
+          "sale_id": "sale_057",
+          "method": "CARD",
+          "amount": 21585,
+          "ref_number": "TX-000057",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_058",
+      "company_id": "comp_001",
+      "customer_id": "cust_050",
+      "invoice_number": "INV-2025-0058",
+      "total": 98787,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_058_1",
+          "sale_id": "sale_058",
+          "variant_id": "var_053_2",
+          "qty": 2,
+          "unit_price": 43490,
+          "discount": 0
+        },
+        {
+          "id": "si_058_2",
+          "sale_id": "sale_058",
+          "variant_id": "var_075_1",
+          "qty": 1,
+          "unit_price": 11054,
+          "discount": 0
+        },
+        {
+          "id": "si_058_3",
+          "sale_id": "sale_058",
+          "variant_id": "var_082_1",
+          "qty": 3,
+          "unit_price": 251,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_058_1",
+          "sale_id": "sale_058",
+          "method": "CASH",
+          "amount": 98787,
+          "ref_number": "TX-000058",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_059",
+      "company_id": "comp_001",
+      "customer_id": "cust_037",
+      "invoice_number": "INV-2025-0059",
+      "total": 110568,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_059_1",
+          "sale_id": "sale_059",
+          "variant_id": "var_031_3",
+          "qty": 2,
+          "unit_price": 55284,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_059_1",
+          "sale_id": "sale_059",
+          "method": "UPI",
+          "amount": 110568,
+          "ref_number": "TX-000059",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_060",
+      "company_id": "comp_001",
+      "customer_id": "cust_037",
+      "invoice_number": "INV-2025-0060",
+      "total": 597,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_060_1",
+          "sale_id": "sale_060",
+          "variant_id": "var_096_1",
+          "qty": 3,
+          "unit_price": 199,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_060_1",
+          "sale_id": "sale_060",
+          "method": "CARD",
+          "amount": 597,
+          "ref_number": "TX-000060",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_061",
+      "company_id": "comp_001",
+      "customer_id": "cust_029",
+      "invoice_number": "INV-2025-0061",
+      "total": 74628,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_061_1",
+          "sale_id": "sale_061",
+          "variant_id": "var_054_2",
+          "qty": 1,
+          "unit_price": 74628,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_061_1",
+          "sale_id": "sale_061",
+          "method": "UPI",
+          "amount": 74628,
+          "ref_number": "TX-000061",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_062",
+      "company_id": "comp_001",
+      "customer_id": "cust_007",
+      "invoice_number": "INV-2025-0062",
+      "total": 10406,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_062_1",
+          "sale_id": "sale_062",
+          "variant_id": "var_115_1",
+          "qty": 3,
+          "unit_price": 1937,
+          "discount": 0
+        },
+        {
+          "id": "si_062_2",
+          "sale_id": "sale_062",
+          "variant_id": "var_038_2",
+          "qty": 1,
+          "unit_price": 4595,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_062_1",
+          "sale_id": "sale_062",
+          "method": "UPI",
+          "amount": 10406,
+          "ref_number": "TX-000062",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_063",
+      "company_id": "comp_001",
+      "customer_id": "cust_015",
+      "invoice_number": "INV-2025-0063",
+      "total": 402348,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_063_1",
+          "sale_id": "sale_063",
+          "variant_id": "var_066_2",
+          "qty": 3,
+          "unit_price": 8498,
+          "discount": 0
+        },
+        {
+          "id": "si_063_2",
+          "sale_id": "sale_063",
+          "variant_id": "var_055_1",
+          "qty": 3,
+          "unit_price": 73064,
+          "discount": 0
+        },
+        {
+          "id": "si_063_3",
+          "sale_id": "sale_063",
+          "variant_id": "var_025_1",
+          "qty": 3,
+          "unit_price": 52554,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_063_1",
+          "sale_id": "sale_063",
+          "method": "CARD",
+          "amount": 402348,
+          "ref_number": "TX-000063",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_064",
+      "company_id": "comp_001",
+      "customer_id": "cust_023",
+      "invoice_number": "INV-2025-0064",
+      "total": 15173,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_064_1",
+          "sale_id": "sale_064",
+          "variant_id": "var_047_2",
+          "qty": 3,
+          "unit_price": 3395,
+          "discount": 0
+        },
+        {
+          "id": "si_064_2",
+          "sale_id": "sale_064",
+          "variant_id": "var_111_1",
+          "qty": 1,
+          "unit_price": 4988,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_064_1",
+          "sale_id": "sale_064",
+          "method": "CASH",
+          "amount": 15173,
+          "ref_number": "TX-000064",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_065",
+      "company_id": "comp_001",
+      "customer_id": "cust_013",
+      "invoice_number": "INV-2025-0065",
+      "total": 246987,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_065_1",
+          "sale_id": "sale_065",
+          "variant_id": "var_113_2",
+          "qty": 3,
+          "unit_price": 47363,
+          "discount": 0
+        },
+        {
+          "id": "si_065_2",
+          "sale_id": "sale_065",
+          "variant_id": "var_025_2",
+          "qty": 3,
+          "unit_price": 34966,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_065_1",
+          "sale_id": "sale_065",
+          "method": "UPI",
+          "amount": 246987,
+          "ref_number": "TX-000065",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_066",
+      "company_id": "comp_001",
+      "customer_id": "cust_016",
+      "invoice_number": "INV-2025-0066",
+      "total": 8526,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_066_1",
+          "sale_id": "sale_066",
+          "variant_id": "var_101_1",
+          "qty": 3,
+          "unit_price": 2842,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_066_1",
+          "sale_id": "sale_066",
+          "method": "UPI",
+          "amount": 8526,
+          "ref_number": "TX-000066",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_067",
+      "company_id": "comp_001",
+      "customer_id": "cust_011",
+      "invoice_number": "INV-2025-0067",
+      "total": 135026,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_067_1",
+          "sale_id": "sale_067",
+          "variant_id": "var_013_1",
+          "qty": 2,
+          "unit_price": 1975,
+          "discount": 0
+        },
+        {
+          "id": "si_067_2",
+          "sale_id": "sale_067",
+          "variant_id": "var_094_1",
+          "qty": 2,
+          "unit_price": 65538,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_067_1",
+          "sale_id": "sale_067",
+          "method": "CARD",
+          "amount": 135026,
+          "ref_number": "TX-000067",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_068",
+      "company_id": "comp_001",
+      "customer_id": "cust_017",
+      "invoice_number": "INV-2025-0068",
+      "total": 116905,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_068_1",
+          "sale_id": "sale_068",
+          "variant_id": "var_055_1",
+          "qty": 1,
+          "unit_price": 73064,
+          "discount": 0
+        },
+        {
+          "id": "si_068_2",
+          "sale_id": "sale_068",
+          "variant_id": "var_067_2",
+          "qty": 1,
+          "unit_price": 43841,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_068_1",
+          "sale_id": "sale_068",
+          "method": "CASH",
+          "amount": 116905,
+          "ref_number": "TX-000068",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_069",
+      "company_id": "comp_001",
+      "customer_id": "cust_033",
+      "invoice_number": "INV-2025-0069",
+      "total": 91175,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_069_1",
+          "sale_id": "sale_069",
+          "variant_id": "var_039_1",
+          "qty": 2,
+          "unit_price": 25955,
+          "discount": 0
+        },
+        {
+          "id": "si_069_2",
+          "sale_id": "sale_069",
+          "variant_id": "var_125_2",
+          "qty": 1,
+          "unit_price": 39265,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_069_1",
+          "sale_id": "sale_069",
+          "method": "UPI",
+          "amount": 91175,
+          "ref_number": "TX-000069",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_070",
+      "company_id": "comp_001",
+      "customer_id": "cust_039",
+      "invoice_number": "INV-2025-0070",
+      "total": 11647,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.830148+00:00",
+      "items": [
+        {
+          "id": "si_070_1",
+          "sale_id": "sale_070",
+          "variant_id": "var_068_2",
+          "qty": 1,
+          "unit_price": 11647,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_070_1",
+          "sale_id": "sale_070",
+          "method": "CARD",
+          "amount": 11647,
+          "ref_number": "TX-000070",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_071",
+      "company_id": "comp_001",
+      "customer_id": "cust_043",
+      "invoice_number": "INV-2025-0071",
+      "total": 102178,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_071_1",
+          "sale_id": "sale_071",
+          "variant_id": "var_086_1",
+          "qty": 3,
+          "unit_price": 29662,
+          "discount": 0
+        },
+        {
+          "id": "si_071_2",
+          "sale_id": "sale_071",
+          "variant_id": "var_064_1",
+          "qty": 1,
+          "unit_price": 4107,
+          "discount": 0
+        },
+        {
+          "id": "si_071_3",
+          "sale_id": "sale_071",
+          "variant_id": "var_112_1",
+          "qty": 1,
+          "unit_price": 9085,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_071_1",
+          "sale_id": "sale_071",
+          "method": "UPI",
+          "amount": 102178,
+          "ref_number": "TX-000071",
+          "paid_at": "2025-11-21T18:13:50.830148+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_072",
+      "company_id": "comp_001",
+      "customer_id": "cust_008",
+      "invoice_number": "INV-2025-0072",
+      "total": 30619,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_072_1",
+          "sale_id": "sale_072",
+          "variant_id": "var_094_2",
+          "qty": 1,
+          "unit_price": 30293,
+          "discount": 0
+        },
+        {
+          "id": "si_072_2",
+          "sale_id": "sale_072",
+          "variant_id": "var_091_1",
+          "qty": 2,
+          "unit_price": 163,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_072_1",
+          "sale_id": "sale_072",
+          "method": "UPI",
+          "amount": 30619,
+          "ref_number": "TX-000072",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_073",
+      "company_id": "comp_001",
+      "customer_id": "cust_039",
+      "invoice_number": "INV-2025-0073",
+      "total": 145444,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_073_1",
+          "sale_id": "sale_073",
+          "variant_id": "var_094_1",
+          "qty": 2,
+          "unit_price": 65538,
+          "discount": 0
+        },
+        {
+          "id": "si_073_2",
+          "sale_id": "sale_073",
+          "variant_id": "var_092_1",
+          "qty": 2,
+          "unit_price": 4274,
+          "discount": 0
+        },
+        {
+          "id": "si_073_3",
+          "sale_id": "sale_073",
+          "variant_id": "var_087_1",
+          "qty": 3,
+          "unit_price": 1940,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_073_1",
+          "sale_id": "sale_073",
+          "method": "UPI",
+          "amount": 145444,
+          "ref_number": "TX-000073",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_074",
+      "company_id": "comp_001",
+      "customer_id": "cust_019",
+      "invoice_number": "INV-2025-0074",
+      "total": 141597,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_074_1",
+          "sale_id": "sale_074",
+          "variant_id": "var_090_1",
+          "qty": 2,
+          "unit_price": 61368,
+          "discount": 0
+        },
+        {
+          "id": "si_074_2",
+          "sale_id": "sale_074",
+          "variant_id": "var_003_1",
+          "qty": 3,
+          "unit_price": 2943,
+          "discount": 0
+        },
+        {
+          "id": "si_074_3",
+          "sale_id": "sale_074",
+          "variant_id": "var_072_1",
+          "qty": 3,
+          "unit_price": 3344,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_074_1",
+          "sale_id": "sale_074",
+          "method": "CASH",
+          "amount": 141597,
+          "ref_number": "TX-000074",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_075",
+      "company_id": "comp_001",
+      "customer_id": "cust_001",
+      "invoice_number": "INV-2025-0075",
+      "total": 209085,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_075_1",
+          "sale_id": "sale_075",
+          "variant_id": "var_039_3",
+          "qty": 3,
+          "unit_price": 69695,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_075_1",
+          "sale_id": "sale_075",
+          "method": "UPI",
+          "amount": 209085,
+          "ref_number": "TX-000075",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_076",
+      "company_id": "comp_001",
+      "customer_id": "cust_002",
+      "invoice_number": "INV-2025-0076",
+      "total": 728,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_076_1",
+          "sale_id": "sale_076",
+          "variant_id": "var_080_1",
+          "qty": 2,
+          "unit_price": 364,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_076_1",
+          "sale_id": "sale_076",
+          "method": "UPI",
+          "amount": 728,
+          "ref_number": "TX-000076",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_077",
+      "company_id": "comp_001",
+      "customer_id": "cust_024",
+      "invoice_number": "INV-2025-0077",
+      "total": 143400,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_077_1",
+          "sale_id": "sale_077",
+          "variant_id": "var_113_2",
+          "qty": 3,
+          "unit_price": 47363,
+          "discount": 0
+        },
+        {
+          "id": "si_077_2",
+          "sale_id": "sale_077",
+          "variant_id": "var_062_1",
+          "qty": 1,
+          "unit_price": 1311,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_077_1",
+          "sale_id": "sale_077",
+          "method": "CASH",
+          "amount": 143400,
+          "ref_number": "TX-000077",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_078",
+      "company_id": "comp_001",
+      "customer_id": "cust_020",
+      "invoice_number": "INV-2025-0078",
+      "total": 52656,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_078_1",
+          "sale_id": "sale_078",
+          "variant_id": "var_149_2",
+          "qty": 3,
+          "unit_price": 2568,
+          "discount": 0
+        },
+        {
+          "id": "si_078_2",
+          "sale_id": "sale_078",
+          "variant_id": "var_139_2",
+          "qty": 3,
+          "unit_price": 6683,
+          "discount": 0
+        },
+        {
+          "id": "si_078_3",
+          "sale_id": "sale_078",
+          "variant_id": "var_136_3",
+          "qty": 3,
+          "unit_price": 8301,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_078_1",
+          "sale_id": "sale_078",
+          "method": "CARD",
+          "amount": 52656,
+          "ref_number": "TX-000078",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_079",
+      "company_id": "comp_001",
+      "customer_id": "cust_004",
+      "invoice_number": "INV-2025-0079",
+      "total": 310600,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_079_1",
+          "sale_id": "sale_079",
+          "variant_id": "var_009_1",
+          "qty": 3,
+          "unit_price": 55658,
+          "discount": 0
+        },
+        {
+          "id": "si_079_2",
+          "sale_id": "sale_079",
+          "variant_id": "var_093_1",
+          "qty": 2,
+          "unit_price": 63216,
+          "discount": 0
+        },
+        {
+          "id": "si_079_3",
+          "sale_id": "sale_079",
+          "variant_id": "var_131_1",
+          "qty": 2,
+          "unit_price": 8597,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_079_1",
+          "sale_id": "sale_079",
+          "method": "CARD",
+          "amount": 310600,
+          "ref_number": "TX-000079",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_080",
+      "company_id": "comp_001",
+      "customer_id": "cust_027",
+      "invoice_number": "INV-2025-0080",
+      "total": 97857,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_080_1",
+          "sale_id": "sale_080",
+          "variant_id": "var_063_2",
+          "qty": 1,
+          "unit_price": 25208,
+          "discount": 0
+        },
+        {
+          "id": "si_080_2",
+          "sale_id": "sale_080",
+          "variant_id": "var_123_1",
+          "qty": 1,
+          "unit_price": 72649,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_080_1",
+          "sale_id": "sale_080",
+          "method": "CARD",
+          "amount": 97857,
+          "ref_number": "TX-000080",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_081",
+      "company_id": "comp_001",
+      "customer_id": "cust_002",
+      "invoice_number": "INV-2025-0081",
+      "total": 121532,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_081_1",
+          "sale_id": "sale_081",
+          "variant_id": "var_063_2",
+          "qty": 1,
+          "unit_price": 25208,
+          "discount": 0
+        },
+        {
+          "id": "si_081_2",
+          "sale_id": "sale_081",
+          "variant_id": "var_120_1",
+          "qty": 1,
+          "unit_price": 5910,
+          "discount": 0
+        },
+        {
+          "id": "si_081_3",
+          "sale_id": "sale_081",
+          "variant_id": "var_110_1",
+          "qty": 3,
+          "unit_price": 30138,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_081_1",
+          "sale_id": "sale_081",
+          "method": "CASH",
+          "amount": 121532,
+          "ref_number": "TX-000081",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_082",
+      "company_id": "comp_001",
+      "customer_id": "cust_040",
+      "invoice_number": "INV-2025-0082",
+      "total": 112213,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_082_1",
+          "sale_id": "sale_082",
+          "variant_id": "var_110_2",
+          "qty": 1,
+          "unit_price": 54323,
+          "discount": 0
+        },
+        {
+          "id": "si_082_2",
+          "sale_id": "sale_082",
+          "variant_id": "var_133_2",
+          "qty": 2,
+          "unit_price": 26808,
+          "discount": 0
+        },
+        {
+          "id": "si_082_3",
+          "sale_id": "sale_082",
+          "variant_id": "var_092_1",
+          "qty": 1,
+          "unit_price": 4274,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_082_1",
+          "sale_id": "sale_082",
+          "method": "CASH",
+          "amount": 112213,
+          "ref_number": "TX-000082",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_083",
+      "company_id": "comp_001",
+      "customer_id": "cust_048",
+      "invoice_number": "INV-2025-0083",
+      "total": 160316,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_083_1",
+          "sale_id": "sale_083",
+          "variant_id": "var_039_1",
+          "qty": 2,
+          "unit_price": 25955,
+          "discount": 0
+        },
+        {
+          "id": "si_083_2",
+          "sale_id": "sale_083",
+          "variant_id": "var_048_2",
+          "qty": 2,
+          "unit_price": 53967,
+          "discount": 0
+        },
+        {
+          "id": "si_083_3",
+          "sale_id": "sale_083",
+          "variant_id": "var_012_2",
+          "qty": 2,
+          "unit_price": 236,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_083_1",
+          "sale_id": "sale_083",
+          "method": "CARD",
+          "amount": 160316,
+          "ref_number": "TX-000083",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_084",
+      "company_id": "comp_001",
+      "customer_id": "cust_038",
+      "invoice_number": "INV-2025-0084",
+      "total": 38032,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_084_1",
+          "sale_id": "sale_084",
+          "variant_id": "var_083_1",
+          "qty": 1,
+          "unit_price": 38032,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_084_1",
+          "sale_id": "sale_084",
+          "method": "CARD",
+          "amount": 38032,
+          "ref_number": "TX-000084",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_085",
+      "company_id": "comp_001",
+      "customer_id": "cust_041",
+      "invoice_number": "INV-2025-0085",
+      "total": 11844,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_085_1",
+          "sale_id": "sale_085",
+          "variant_id": "var_119_1",
+          "qty": 2,
+          "unit_price": 5255,
+          "discount": 0
+        },
+        {
+          "id": "si_085_2",
+          "sale_id": "sale_085",
+          "variant_id": "var_080_2",
+          "qty": 2,
+          "unit_price": 415,
+          "discount": 0
+        },
+        {
+          "id": "si_085_3",
+          "sale_id": "sale_085",
+          "variant_id": "var_041_1",
+          "qty": 2,
+          "unit_price": 252,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_085_1",
+          "sale_id": "sale_085",
+          "method": "UPI",
+          "amount": 11844,
+          "ref_number": "TX-000085",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_086",
+      "company_id": "comp_001",
+      "customer_id": "cust_005",
+      "invoice_number": "INV-2025-0086",
+      "total": 65958,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_086_1",
+          "sale_id": "sale_086",
+          "variant_id": "var_042_1",
+          "qty": 1,
+          "unit_price": 420,
+          "discount": 0
+        },
+        {
+          "id": "si_086_2",
+          "sale_id": "sale_086",
+          "variant_id": "var_094_1",
+          "qty": 1,
+          "unit_price": 65538,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_086_1",
+          "sale_id": "sale_086",
+          "method": "CASH",
+          "amount": 65958,
+          "ref_number": "TX-000086",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_087",
+      "company_id": "comp_001",
+      "customer_id": "cust_020",
+      "invoice_number": "INV-2025-0087",
+      "total": 217039,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_087_1",
+          "sale_id": "sale_087",
+          "variant_id": "var_130_1",
+          "qty": 3,
+          "unit_price": 1323,
+          "discount": 0
+        },
+        {
+          "id": "si_087_2",
+          "sale_id": "sale_087",
+          "variant_id": "var_095_2",
+          "qty": 1,
+          "unit_price": 3364,
+          "discount": 0
+        },
+        {
+          "id": "si_087_3",
+          "sale_id": "sale_087",
+          "variant_id": "var_031_2",
+          "qty": 3,
+          "unit_price": 69902,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_087_1",
+          "sale_id": "sale_087",
+          "method": "UPI",
+          "amount": 217039,
+          "ref_number": "TX-000087",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_088",
+      "company_id": "comp_001",
+      "customer_id": "cust_005",
+      "invoice_number": "INV-2025-0088",
+      "total": 367668,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_088_1",
+          "sale_id": "sale_088",
+          "variant_id": "var_054_1",
+          "qty": 3,
+          "unit_price": 63834,
+          "discount": 0
+        },
+        {
+          "id": "si_088_2",
+          "sale_id": "sale_088",
+          "variant_id": "var_009_1",
+          "qty": 3,
+          "unit_price": 55658,
+          "discount": 0
+        },
+        {
+          "id": "si_088_3",
+          "sale_id": "sale_088",
+          "variant_id": "var_036_2",
+          "qty": 3,
+          "unit_price": 3064,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_088_1",
+          "sale_id": "sale_088",
+          "method": "UPI",
+          "amount": 367668,
+          "ref_number": "TX-000088",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_089",
+      "company_id": "comp_001",
+      "customer_id": "cust_032",
+      "invoice_number": "INV-2025-0089",
+      "total": 4054,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_089_1",
+          "sale_id": "sale_089",
+          "variant_id": "var_029_3",
+          "qty": 3,
+          "unit_price": 321,
+          "discount": 0
+        },
+        {
+          "id": "si_089_2",
+          "sale_id": "sale_089",
+          "variant_id": "var_140_1",
+          "qty": 1,
+          "unit_price": 3091,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_089_1",
+          "sale_id": "sale_089",
+          "method": "CASH",
+          "amount": 4054,
+          "ref_number": "TX-000089",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_090",
+      "company_id": "comp_001",
+      "customer_id": "cust_011",
+      "invoice_number": "INV-2025-0090",
+      "total": 13476,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_090_1",
+          "sale_id": "sale_090",
+          "variant_id": "var_035_3",
+          "qty": 1,
+          "unit_price": 376,
+          "discount": 0
+        },
+        {
+          "id": "si_090_2",
+          "sale_id": "sale_090",
+          "variant_id": "var_041_1",
+          "qty": 2,
+          "unit_price": 252,
+          "discount": 0
+        },
+        {
+          "id": "si_090_3",
+          "sale_id": "sale_090",
+          "variant_id": "var_102_1",
+          "qty": 2,
+          "unit_price": 6298,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_090_1",
+          "sale_id": "sale_090",
+          "method": "CARD",
+          "amount": 13476,
+          "ref_number": "TX-000090",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_091",
+      "company_id": "comp_001",
+      "customer_id": "cust_039",
+      "invoice_number": "INV-2025-0091",
+      "total": 19482,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_091_1",
+          "sale_id": "sale_091",
+          "variant_id": "var_038_1",
+          "qty": 2,
+          "unit_price": 7250,
+          "discount": 0
+        },
+        {
+          "id": "si_091_2",
+          "sale_id": "sale_091",
+          "variant_id": "var_074_1",
+          "qty": 1,
+          "unit_price": 4549,
+          "discount": 0
+        },
+        {
+          "id": "si_091_3",
+          "sale_id": "sale_091",
+          "variant_id": "var_035_1",
+          "qty": 1,
+          "unit_price": 433,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_091_1",
+          "sale_id": "sale_091",
+          "method": "CASH",
+          "amount": 19482,
+          "ref_number": "TX-000091",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_092",
+      "company_id": "comp_001",
+      "customer_id": "cust_047",
+      "invoice_number": "INV-2025-0092",
+      "total": 281,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_092_1",
+          "sale_id": "sale_092",
+          "variant_id": "var_104_2",
+          "qty": 1,
+          "unit_price": 281,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_092_1",
+          "sale_id": "sale_092",
+          "method": "CARD",
+          "amount": 281,
+          "ref_number": "TX-000092",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_093",
+      "company_id": "comp_001",
+      "customer_id": "cust_008",
+      "invoice_number": "INV-2025-0093",
+      "total": 75715,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_093_1",
+          "sale_id": "sale_093",
+          "variant_id": "var_029_3",
+          "qty": 1,
+          "unit_price": 321,
+          "discount": 0
+        },
+        {
+          "id": "si_093_2",
+          "sale_id": "sale_093",
+          "variant_id": "var_101_2",
+          "qty": 3,
+          "unit_price": 2920,
+          "discount": 0
+        },
+        {
+          "id": "si_093_3",
+          "sale_id": "sale_093",
+          "variant_id": "var_063_1",
+          "qty": 1,
+          "unit_price": 66634,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_093_1",
+          "sale_id": "sale_093",
+          "method": "CASH",
+          "amount": 75715,
+          "ref_number": "TX-000093",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_094",
+      "company_id": "comp_001",
+      "customer_id": "cust_004",
+      "invoice_number": "INV-2025-0094",
+      "total": 10478,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.831073+00:00",
+      "items": [
+        {
+          "id": "si_094_1",
+          "sale_id": "sale_094",
+          "variant_id": "var_043_1",
+          "qty": 2,
+          "unit_price": 5239,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_094_1",
+          "sale_id": "sale_094",
+          "method": "CARD",
+          "amount": 10478,
+          "ref_number": "TX-000094",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_095",
+      "company_id": "comp_001",
+      "customer_id": "cust_037",
+      "invoice_number": "INV-2025-0095",
+      "total": 19754,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.834362+00:00",
+      "items": [
+        {
+          "id": "si_095_1",
+          "sale_id": "sale_095",
+          "variant_id": "var_068_3",
+          "qty": 2,
+          "unit_price": 6291,
+          "discount": 0
+        },
+        {
+          "id": "si_095_2",
+          "sale_id": "sale_095",
+          "variant_id": "var_112_2",
+          "qty": 1,
+          "unit_price": 7172,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_095_1",
+          "sale_id": "sale_095",
+          "method": "CASH",
+          "amount": 19754,
+          "ref_number": "TX-000095",
+          "paid_at": "2025-11-21T18:13:50.831073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_096",
+      "company_id": "comp_001",
+      "customer_id": "cust_026",
+      "invoice_number": "INV-2025-0096",
+      "total": 107736,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.834362+00:00",
+      "items": [
+        {
+          "id": "si_096_1",
+          "sale_id": "sale_096",
+          "variant_id": "var_083_1",
+          "qty": 2,
+          "unit_price": 38032,
+          "discount": 0
+        },
+        {
+          "id": "si_096_2",
+          "sale_id": "sale_096",
+          "variant_id": "var_068_2",
+          "qty": 2,
+          "unit_price": 11647,
+          "discount": 0
+        },
+        {
+          "id": "si_096_3",
+          "sale_id": "sale_096",
+          "variant_id": "var_143_1",
+          "qty": 2,
+          "unit_price": 4189,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_096_1",
+          "sale_id": "sale_096",
+          "method": "CASH",
+          "amount": 107736,
+          "ref_number": "TX-000096",
+          "paid_at": "2025-11-21T18:13:50.834362+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_097",
+      "company_id": "comp_001",
+      "customer_id": "cust_037",
+      "invoice_number": "INV-2025-0097",
+      "total": 156500,
+      "discount": 0,
+      "payment_status": "PENDING",
+      "created_at": "2025-11-21T18:13:50.835208+00:00",
+      "items": [
+        {
+          "id": "si_097_1",
+          "sale_id": "sale_097",
+          "variant_id": "var_109_1",
+          "qty": 3,
+          "unit_price": 48755,
+          "discount": 0
+        },
+        {
+          "id": "si_097_2",
+          "sale_id": "sale_097",
+          "variant_id": "var_099_1",
+          "qty": 1,
+          "unit_price": 8939,
+          "discount": 0
+        },
+        {
+          "id": "si_097_3",
+          "sale_id": "sale_097",
+          "variant_id": "var_100_1",
+          "qty": 3,
+          "unit_price": 432,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_097_1",
+          "sale_id": "sale_097",
+          "method": "CARD",
+          "amount": 156500,
+          "ref_number": "TX-000097",
+          "paid_at": "2025-11-21T18:13:50.834719+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_098",
+      "company_id": "comp_001",
+      "customer_id": "cust_029",
+      "invoice_number": "INV-2025-0098",
+      "total": 8043,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.835208+00:00",
+      "items": [
+        {
+          "id": "si_098_1",
+          "sale_id": "sale_098",
+          "variant_id": "var_145_1",
+          "qty": 1,
+          "unit_price": 7762,
+          "discount": 0
+        },
+        {
+          "id": "si_098_2",
+          "sale_id": "sale_098",
+          "variant_id": "var_104_2",
+          "qty": 1,
+          "unit_price": 281,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_098_1",
+          "sale_id": "sale_098",
+          "method": "CASH",
+          "amount": 8043,
+          "ref_number": "TX-000098",
+          "paid_at": "2025-11-21T18:13:50.835208+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_099",
+      "company_id": "comp_001",
+      "customer_id": "cust_029",
+      "invoice_number": "INV-2025-0099",
+      "total": 15184,
+      "discount": 0,
+      "payment_status": "CANCELLED",
+      "created_at": "2025-11-21T18:13:50.835208+00:00",
+      "items": [
+        {
+          "id": "si_099_1",
+          "sale_id": "sale_099",
+          "variant_id": "var_047_1",
+          "qty": 1,
+          "unit_price": 4314,
+          "discount": 0
+        },
+        {
+          "id": "si_099_2",
+          "sale_id": "sale_099",
+          "variant_id": "var_034_1",
+          "qty": 2,
+          "unit_price": 5435,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_099_1",
+          "sale_id": "sale_099",
+          "method": "CASH",
+          "amount": 15184,
+          "ref_number": "TX-000099",
+          "paid_at": "2025-11-21T18:13:50.835208+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sale_100",
+      "company_id": "comp_001",
+      "customer_id": "cust_030",
+      "invoice_number": "INV-2025-0100",
+      "total": 22689,
+      "discount": 0,
+      "payment_status": "PAID",
+      "created_at": "2025-11-21T18:13:50.835208+00:00",
+      "items": [
+        {
+          "id": "si_100_1",
+          "sale_id": "sale_100",
+          "variant_id": "var_101_2",
+          "qty": 3,
+          "unit_price": 2920,
+          "discount": 0
+        },
+        {
+          "id": "si_100_2",
+          "sale_id": "sale_100",
+          "variant_id": "var_005_1",
+          "qty": 3,
+          "unit_price": 4643,
+          "discount": 0
+        }
+      ],
+      "payments": [
+        {
+          "id": "pay_100_1",
+          "sale_id": "sale_100",
+          "method": "CARD",
+          "amount": 22689,
+          "ref_number": "TX-000100",
+          "paid_at": "2025-11-21T18:13:50.835208+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "vendors": [
+    {
+      "id": "comp_001",
+      "name": "Veract Consultancy Pvt Ltd",
+      "address": "17, First Street, Tansi Nagar, Velachery, Chennai – 600042",
+      "email": "info@veract.io",
+      "phone": ["9789991565", "9962837650"],
+      "website": "www.veract.io",
+      "registration_number": "REG-2023-001",
+      "established_year": 2023,
+      "business_type": "Retail & E-commerce",
+      "status": "ACTIVE",
+      "total_locations": 2,
+      "locations": [
+        {
+          "id": "loc_001",
+          "name": "Main Store - Velachery",
+          "address": "17, First Street, Tansi Nagar, Velachery, Chennai – 600042",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "postal_code": "600042",
+          "phone": "9789991565",
+          "manager": "emp_001",
+          "type": "Retail Store"
+        },
+        {
+          "id": "loc_002",
+          "name": "Secondary Store - Adyar",
+          "address": "45, Sterling Road, Adyar, Chennai – 600020",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "postal_code": "600020",
+          "phone": "9962837650",
+          "manager": "emp_002",
+          "type": "Retail Store"
+        }
+      ],
+      "employees": [
+        {
+          "id": "emp_001",
+          "name": "Rajesh Kumar",
+          "email": "rajesh@veract.io",
+          "phone": "9876543210",
+          "position": "Store Manager",
+          "department": "Operations",
+          "location_id": "loc_001",
+          "joining_date": "2023-01-15",
+          "status": "ACTIVE"
+        },
+        {
+          "id": "emp_002",
+          "name": "Priya Sharma",
+          "email": "priya@veract.io",
+          "phone": "9876543211",
+          "position": "Store Manager",
+          "department": "Operations",
+          "location_id": "loc_002",
+          "joining_date": "2023-03-10",
+          "status": "ACTIVE"
+        },
+        {
+          "id": "emp_003",
+          "name": "Arjun Verma",
+          "email": "arjun@veract.io",
+          "phone": "9876543212",
+          "position": "Sales Executive",
+          "department": "Sales",
+          "location_id": "loc_001",
+          "joining_date": "2023-06-01",
+          "status": "ACTIVE"
+        }
+      ],
+      "bank_details": {
+        "account_holder": "Veract Consultancy Pvt Ltd",
+        "account_number": "1234567890123456",
+        "ifsc_code": "ICIC0000001",
+        "bank_name": "ICICI Bank",
+        "branch": "Velachery"
+      },
+      "payment_methods": ["CASH", "CARD", "BANK_TRANSFER", "CHEQUE"],
+      "return_policy": {
+        "return_window_days": 30,
+        "condition": "Original condition with all packaging",
+        "refund_method": "Original payment method"
+      }
+    },
+    {
+      "id": "comp_002",
+      "name": "Premium Electronics Ltd",
+      "address": "124, Tech Park, Hyderabad – 500081",
+      "email": "sales@premiumelectronics.com",
+      "phone": ["9987654321"],
+      "website": "www.premiumelectronics.com",
+      "registration_number": "REG-2022-005",
+      "established_year": 2022,
+      "business_type": "Electronics Supplier",
+      "status": "ACTIVE",
+      "total_locations": 1,
+      "locations": [
+        {
+          "id": "loc_003",
+          "name": "Headquarters - Tech Park",
+          "address": "124, Tech Park, Hyderabad – 500081",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "country": "India",
+          "postal_code": "500081",
+          "phone": "9987654321",
+          "manager": "emp_004",
+          "type": "Warehouse"
+        }
+      ],
+      "employees": [
+        {
+          "id": "emp_004",
+          "name": "Suresh Patel",
+          "email": "suresh@premiumelectronics.com",
+          "phone": "9887654321",
+          "position": "General Manager",
+          "department": "Operations",
+          "location_id": "loc_003",
+          "joining_date": "2022-05-20",
+          "status": "ACTIVE"
+        }
+      ],
+      "bank_details": {
+        "account_holder": "Premium Electronics Ltd",
+        "account_number": "9876543210987654",
+        "ifsc_code": "HDFC0000005",
+        "bank_name": "HDFC Bank",
+        "branch": "Hyderabad"
+      },
+      "payment_methods": ["BANK_TRANSFER", "CHEQUE"],
+      "return_policy": {
+        "return_window_days": 15,
+        "condition": "Unopened packaging",
+        "refund_method": "Bank transfer"
+      }
+    },
+    {
+      "id": "comp_003",
+      "name": "Fashion World India",
+      "address": "78, Fashion Avenue, Delhi – 110001",
+      "email": "contact@fashionworldindia.com",
+      "phone": ["9876543456"],
+      "website": "www.fashionworldindia.com",
+      "registration_number": "REG-2021-008",
+      "established_year": 2021,
+      "business_type": "Fashion Supplier",
+      "status": "ACTIVE",
+      "total_locations": 3,
+      "locations": [
+        {
+          "id": "loc_004",
+          "name": "HQ - Fashion Avenue",
+          "address": "78, Fashion Avenue, Delhi – 110001",
+          "city": "Delhi",
+          "state": "Delhi",
+          "country": "India",
+          "postal_code": "110001",
+          "phone": "9876543456",
+          "manager": "emp_005",
+          "type": "Retail Store"
+        }
+      ],
+      "employees": [
+        {
+          "id": "emp_005",
+          "name": "Neha Singh",
+          "email": "neha@fashionworldindia.com",
+          "phone": "9776543456",
+          "position": "Regional Director",
+          "department": "Sales",
+          "location_id": "loc_004",
+          "joining_date": "2021-08-12",
+          "status": "ACTIVE"
+        }
+      ],
+      "bank_details": {
+        "account_holder": "Fashion World India",
+        "account_number": "5555666677778888",
+        "ifsc_code": "AXIS0000003",
+        "bank_name": "Axis Bank",
+        "branch": "Delhi"
+      },
+      "payment_methods": ["CASH", "CARD", "BANK_TRANSFER"],
+      "return_policy": {
+        "return_window_days": 45,
+        "condition": "With tags and original packaging",
+        "refund_method": "Original payment method"
+      }
+    }
+  ]
+}
